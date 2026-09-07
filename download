@@ -1,0 +1,14 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Signing material and App Store credentials
+*.p8
+*.p12
+*.cer
+*.mobileprovision
+
+# macOS
+.DS_Store
